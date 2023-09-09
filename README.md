@@ -1,4 +1,4 @@
-[![MasterHead](C:\Users\Dell\Pictures\Banner list used)](https://amirnsuhail.io)
+[![MasterHead](https://github.com/amirnsuhail/amirnsuhail/blob/main/data_driven_growth.png)](https://amirnsuhail.io)
 <h1 align="center">Hi 👋, I'm Amir Suhail</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5c19020c997c25514d17d86f/614b7e249dbe1c69fad3a0f5_Analytics.gif">
